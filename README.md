@@ -1,1 +1,4 @@
-# analysis_system
+<<<<<<< HEAD
+# analysis
+実験データで得られた問題文の解析
+=======
