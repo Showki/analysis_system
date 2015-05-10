@@ -38,7 +38,6 @@ class AppController extends Controller {
 //      'Form' => array('className' => 'TwitterBootstrap.BootstrapForm'),
 //      'Paginator' => array('className' => 'TwitterBootstrap.BootstrapPaginator'),
     );
-
 /**
  * request login API
  *
